@@ -1,0 +1,95 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\.889e2bfd360033e994b838fcd6cf02e8b54984a1-audit.json",
+    "files": [
+        {
+            "date": 1715346460356,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-10-05-19-error.log",
+            "hash": "de862bbd5969caaa79ef762e0f74e6a17e77cb93da54caae9fcf4526c0abcba9"
+        },
+        {
+            "date": 1715361066297,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-10-05-23-error.log",
+            "hash": "fc68814c404eeaa7d309771ba56ab84de809431e9278b97cb63248c85c40395b"
+        },
+        {
+            "date": 1715389103885,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-11-05-06-error.log",
+            "hash": "d4c32d74f372fee760715038a6c77176679b3dc713e91e94639c36db61e789a3"
+        },
+        {
+            "date": 1715423086266,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-11-05-16-error.log",
+            "hash": "269257d84d44ce5f8851726a8957fd6ab86de60512a60460209a9786d0423011"
+        },
+        {
+            "date": 1715430429333,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-11-05-18-error.log",
+            "hash": "35eff51edb79eb258277d550a725a901c52ba9eebfc178a5bbf7c7f575bf54f0"
+        },
+        {
+            "date": 1715484771639,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-12-05-09-error.log",
+            "hash": "4ad1fcfaff57939a5f17cf0849871b94215ad2faba3a447ebf092c4286dd0d0d"
+        },
+        {
+            "date": 1715491560892,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-12-05-11-error.log",
+            "hash": "ad2cb8cc52d18cb45bab6c0d7d00d21124cf9527a2070cedada2e27ab398cdd6"
+        },
+        {
+            "date": 1715498852628,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-12-05-13-error.log",
+            "hash": "53817b31be7f03cf2ef8827033ebf158bbce87e769ea01f68410643d337a8909"
+        },
+        {
+            "date": 1715501538798,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-12-05-14-error.log",
+            "hash": "8756b89aacb37623277c059c2ea5b7c66e04cebedda002a00aafec4b394fbaac"
+        },
+        {
+            "date": 1715507886882,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-12-05-15-error.log",
+            "hash": "4b2df85379c05afd6f92f9163b482cde9297a5ab0d16d2d82dd107701e5781c3"
+        },
+        {
+            "date": 1715510413904,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-12-05-16-error.log",
+            "hash": "aa7cf58388bc2182c040a5e6874850cee218daadc72837e66a06f7bdf2f9a010"
+        },
+        {
+            "date": 1715520529016,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-12-05-19-error.log",
+            "hash": "66681e2e982f7201f453beb5e58a3c3982bd9c392fbd2d62b6846f761d4537b3"
+        },
+        {
+            "date": 1715574012981,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-13-05-10-error.log",
+            "hash": "06499a0f45393b1c5c47e1211dff0ba86fa267081cfe628a17f9fc8fa78c73ad"
+        },
+        {
+            "date": 1715596889899,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-13-05-16-error.log",
+            "hash": "a56be150860cac7c3960564a7576b202188c91d50ce181124db6196a0e9bb457"
+        },
+        {
+            "date": 1715600112689,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-13-05-17-error.log",
+            "hash": "4d2a20a633fce051b4d71f7311d198553ee7325ef7a6fa00631a9690625fabe6"
+        },
+        {
+            "date": 1715610443419,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-13-05-20-error.log",
+            "hash": "5d7c2dbe7f33e8df5179051dcba6bb539a1576dc04c601e4fe7c817c358ae0bb"
+        },
+        {
+            "date": 1715708630824,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\errors\\phu-2024-14-05-23-error.log",
+            "hash": "3fdb70898295b15ee9e870931fd34ea1d85cb2c57c3f8d001d77289939b3555e"
+        }
+    ],
+    "hashType": "sha256"
+}

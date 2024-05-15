@@ -1,0 +1,95 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\.ade01a51c75c6ff7043402de0a8d3b056e547c3e-audit.json",
+    "files": [
+        {
+            "date": 1715346460353,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-10-05-19-success.log",
+            "hash": "80b6289dc703d058cc8ad78699141b2388785af592d9ca47901b9b3bef3a68cb"
+        },
+        {
+            "date": 1715361066294,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-10-05-23-success.log",
+            "hash": "d95aaf6a692c39485301a482131d6567b4613a1b2863ea75697cae32dec30b7f"
+        },
+        {
+            "date": 1715389103882,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-11-05-06-success.log",
+            "hash": "ec7f13c70a232c1227fb517fc465c7ac442d745061565ab15ddfd9eb445834f9"
+        },
+        {
+            "date": 1715423086262,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-11-05-16-success.log",
+            "hash": "b1ae767cb56a4e4a0fa2fd3e78575db35d85f8ee12ae51f2413312728351b92d"
+        },
+        {
+            "date": 1715430429330,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-11-05-18-success.log",
+            "hash": "8dc630796413b3216cccb98a18609bc4a677207548c45badc6448ccc36015db3"
+        },
+        {
+            "date": 1715484771636,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-12-05-09-success.log",
+            "hash": "1990ca14a3eb7caeb2f42084ab591025b54978b26feb1ba06f73c1257c38b51d"
+        },
+        {
+            "date": 1715491560889,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-12-05-11-success.log",
+            "hash": "21b002b6e1ee305dd98e4addd80a9b3a2581ebe7522b776bf91c7f0bc653cb80"
+        },
+        {
+            "date": 1715498852625,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-12-05-13-success.log",
+            "hash": "a9da8aa96e468e6bc680dc3c7757e278c0151dccbc18391db58ddce69047611e"
+        },
+        {
+            "date": 1715501538795,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-12-05-14-success.log",
+            "hash": "36aa7be100b82e6ef9f47d0922b4b6d8a2eb2d4613025addb8856def33869828"
+        },
+        {
+            "date": 1715507886879,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-12-05-15-success.log",
+            "hash": "2ea5e5ac22f2ac9d5c14916d9607d7c11608afefb1b2a04144ceadbf3d760e12"
+        },
+        {
+            "date": 1715510413901,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-12-05-16-success.log",
+            "hash": "68e70ec34f704693334830f6901d1406e3e60db93661d8db8800024ec716b6c4"
+        },
+        {
+            "date": 1715520529013,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-12-05-19-success.log",
+            "hash": "a55c4fded18258b2df14d52380ec01d5f1495b3407981a9b6f5f00011cb5d9b6"
+        },
+        {
+            "date": 1715574012978,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-13-05-10-success.log",
+            "hash": "364c4c60060df218c09fc2488311fd6c1dae34b344e384f745f301b196034725"
+        },
+        {
+            "date": 1715596889895,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-13-05-16-success.log",
+            "hash": "4c62a6cf99c0af8aad3f02a4485e94a0ad21a79908e544f96188dd196e776da2"
+        },
+        {
+            "date": 1715600112686,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-13-05-17-success.log",
+            "hash": "8fa4ffb6c1c7b8af8e6df20a784c7c28c3a4c70551b1026340f6bbea3d61eb14"
+        },
+        {
+            "date": 1715610443415,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-13-05-20-success.log",
+            "hash": "db8d26470f01ccc5f03680173e4280c8864f3fa6e22c64d50c4f3f32053cb780"
+        },
+        {
+            "date": 1715708630821,
+            "name": "D:\\Programin-hero-lavel-2\\PH-HealthCare\\server\\logs\\winston\\successes\\phu-2024-14-05-23-success.log",
+            "hash": "cf5ec86a82c1e742a7e5c67eae825bcc12fdfa6da22445835eced6fe89a1c990"
+        }
+    ],
+    "hashType": "sha256"
+}
